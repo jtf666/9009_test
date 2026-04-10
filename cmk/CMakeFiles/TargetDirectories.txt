@@ -1,0 +1,4 @@
+/home/jitengfei/0_9009_new_sdk/xyg_cp_v17_tx_lvbo/cmk/CMakeFiles/edit_cache.dir
+/home/jitengfei/0_9009_new_sdk/xyg_cp_v17_tx_lvbo/cmk/CMakeFiles/rebuild_cache.dir
+/home/jitengfei/0_9009_new_sdk/xyg_cp_v17_tx_lvbo/cmk/CMakeFiles/set9009.dir
+/home/jitengfei/0_9009_new_sdk/xyg_cp_v17_tx_lvbo/cmk/CMakeFiles/init9009_guochan.dir

@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "yxw_plat_hal.h": "c",
+        "yxw_init.h": "c",
+        "yxw_cals_types.h": "c",
+        "yxw_reg_dig.h": "c",
+        "yxw_config.h": "c",
+        "yxw_plat_hal_types.h": "c",
+        "yxw_info.h": "c",
+        "yxw_hal.h": "c",
+        "yxw_rx.h": "c",
+        "un.h": "c",
+        "yxw_gpio.h": "c",
+        "yxw_gpio_types.h": "c",
+        "main.h": "c",
+        "yxw_riscv.h": "c",
+        "yxw_cals.h": "c",
+        "yxw_tx.h": "c",
+        "k7_spi.h": "c",
+        "yxw_reg_ana.h": "c"
+    }
+}

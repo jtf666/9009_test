@@ -1,0 +1,12 @@
+xyg_cp 
+
+
+
+载波设置注意点 -m 
+
+ 1.PIN_MODE 
+    yxwAction = YXW_radioOn(hw_priv_tx,YXW_PIN_MODE);
+ 2.YXW_setRadioCtrlPinMode
+    yxwAction = YXW_setRadioCtrlPinMode(hw_priv_tx, YXW_RXOFF,YXW_ORXOFF,YXW_TX1);
+3.打开载波
+    _set_gpio_val(EMIO_NUM_ZAIBO_SWITCH,0);

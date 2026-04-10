@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jitengfei/0_9009_new_sdk/xyg_cp_v17_tx_lvbo/set9009.c
+stdlib.h
+-
+stdio.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/stat.h
+-
+sys/socket.h
+-
+sys/un.h
+-
+memory.h
+-
+
