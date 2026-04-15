@@ -981,7 +981,7 @@ int main(int argc,char *argv[])
 {	
 	printf("\n\r \n\r \n\r \n\r \n\r \n\r \n\r");
 	printf("---------------------- xyg terminal new sdk 250918 tx lvbo cp guochan 9009\n\r");
-	printf("---------------------- build time 260128\n\r");
+	printf("---------------------- build time 260415\n\r");
 	int run_rx_flag = 0;
     int run_tx_flag = 0;
 	
